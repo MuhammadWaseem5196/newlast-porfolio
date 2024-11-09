@@ -8,7 +8,7 @@ import {
   } from "@/components/ui/card"
   import { FaCheckCircle } from "react-icons/fa";
 
-  import { Button } from "@/components/ui/button"
+
 
 
 export default function Skills(){
