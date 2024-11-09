@@ -15,7 +15,7 @@ export default function Education() {
               <div className="py-8 flex flex-wrap md:flex-nowrap">
                 <div className="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
                   <span className="font-semibold title-font text-yellow-600">
-                    Bachelor's Degree
+                    Bachelors Degree
                   </span>
                   <span className="mt-1 text-gray-500 text-sm">From 2022 Till 2026</span>
                 </div>
@@ -24,7 +24,7 @@ export default function Education() {
                     Federal Urdu University Karachi (Gulshan Campus)
                   </h2>
                   <p className="leading-relaxed text-gray-700">
-                    Bachelor's from Urdu University is very educational and effective. I am specializing in marketing, which is my favorite subject.
+                    Bachelors from Urdu University is very educational and effective. I am specializing in marketing, which is my favorite subject.
                   </p>
                 </div>
               </div>
