@@ -30,7 +30,7 @@ export default function Projectcard(){
         <div  className="p-5   flex flex-col justify-center  bg-cyan-300 ">
         <div><div data-aos="fade-right" className=" glass p-3 shadow-xl pt-3 rounded-2xl" >
       <div>
-        <title className="text-3xl font-serif text-[#133E87]">Projects</title>
+        <div className="text-3xl font-serif text-[#133E87]">Projects</div>
       </div>
 
       <div>

@@ -25,7 +25,7 @@ export default function Expirancecard(){
         <div>
         <div data-aos="fade-right" className=" glass p-3 shadow-xl pt-3 rounded-2xl">
       <div>
-        <title className="text-3xl font-serif text-[#133E87]">Experience</title>
+        <div className="text-3xl font-serif text-[#133E87]">Experience</div>
       </div>
 
       <div className="-mt-10">
